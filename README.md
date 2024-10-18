@@ -1,2 +1,2 @@
 # hbeats
-heart-attack-pediction-with-wearOS
+heart-attack-prediction-with-wearOS
